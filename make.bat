@@ -1,0 +1,1 @@
+nvcc ./src/main.cu -o bin/app
